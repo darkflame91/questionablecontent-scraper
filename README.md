@@ -1,5 +1,5 @@
 # questionablecontent-scraper
-Downloads all the comic images from Questionable Content[questionablecontent.net] for offline reading.
+Downloads all the comic images from Questionable Content [questionablecontent.net] for offline reading.
 
 This script has not been under version control(till now!)
 
